@@ -1,0 +1,2 @@
+# functions-scope
+funky scope
